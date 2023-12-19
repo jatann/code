@@ -1,2 +1,2 @@
 # code
-This is my first repository. Most experimental stuff here.
+This is my first repository. Mostly experimental stuff here.
